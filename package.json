@@ -6,7 +6,7 @@
     "test": "echo \"Just testing!\""
   },
   "dependencies": {
-    "@angular/common": "^10.0.12",
+    "@angular/common": "^10.0.14",
     "@angular/core": "^10.0.12",
     "@myanmartools/ng-zawgyi-detector": "^1.2.3",
     "@myanmartools/zawgyi-unicode-translit-rules": "^1.1.3",
