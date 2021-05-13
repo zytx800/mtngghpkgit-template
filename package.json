@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@angular/common": "^11.2.14",
-    "@angular/core": "^11.2.13",
+    "@angular/core": "^11.2.14",
     "@myanmartools/ng-zawgyi-detector": "^1.2.6",
     "@myanmartools/zawgyi-unicode-translit-rules": "^1.1.6",
     "lib-tools": "^2.0.4",
